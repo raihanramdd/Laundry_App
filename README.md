@@ -19,3 +19,4 @@ Copyright (C) Azhar Rivaldi
     limitations under the License.
 
 ```
+https://rivaldi48.blogspot.com/2021/12/tutorial-membuat-aplikasi-laundry-dengan-android-studio.html
